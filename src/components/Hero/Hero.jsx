@@ -42,7 +42,7 @@ const Hero = () => {
                     className="cta-group"
                 >
                     <a href="#projects" className="btn btn-primary">
-                        View Work <ArrowRight size={20} />
+                        View Works <ArrowRight size={20} />
                     </a>
                     <a href="#contact" className="btn btn-secondary">
                         Contact Me <Mail size={20} />
